@@ -1,20 +1,20 @@
-## Hi 👋, I'm Natalie
+## Hi 👋, I'm Kentrell
 
 I'm a Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
 
-[![linkedin](https://img.shields.io/badge/-@nataliebravo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/nataliebravo/)](https://www.linkedin.com/in/nataliebravo/)
-[![Gmail](https://img.shields.io/badge/-natalie.bravo-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:natalie.bravo@outlook.com)
-[![Spotify](https://img.shields.io/badge/-@Natalie%20Bravo-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)](https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)
+[![linkedin](https://img.shields.io/badge/-@kentrellmalone-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/kentrellmalone/)](https://www.linkedin.com/in/nataliebravo/)
+[![Gmail](https://img.shields.io/badge/-kentrell.malone-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:kentrell.malone@outlook.com)
+[![Spotify](https://img.shields.io/badge/-@Kentrell%20Malone-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)](https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)
 
 
 <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working at [Holograph].
-- 🧐 Always learning about blockchain, smart contracts, and web development.
+- 🔭 I’m currently working at [Oracle].
+- 🧐 Always learning about blockchain, and web development.
 - 🤔 I’m looking for help with L2 technologies.
-- 💬 Ping me about blockchain stuff.
+- 💬 Ping me about front end development.
 - 📙 Check out my [resume].
 - 🎉 Fun Fact: I like cyberpunk and Lo-fi。
 

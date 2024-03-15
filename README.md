@@ -7,7 +7,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 [![Spotify](https://img.shields.io/badge/-@Kentrell%20Malone-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)](https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)
 
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="250"/>
 
 ## ⚡️ A Few Quick Facts
 

@@ -3,8 +3,8 @@
 I'm a Frontend Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
 
 [![linkedin](https://img.shields.io/badge/-@kentrellmalone-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/kentrellmalone/)](https://www.linkedin.com/in/nataliebravo/)
-[![Gmail](https://img.shields.io/badge/-kentrell.malone-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:kentrell.malone@outlook.com)
-[![Spotify](https://img.shields.io/badge/-@Kentrell%20Malone-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)](https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)
+[![Gmail](https://img.shields.io/badge/-kentrell.malone-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:kentrell.malone90115@gmail.com)
+[![Skype](https://img.shields.io/badge/-@Kentrell%20Malone-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22rgxxd7fo4qvzke554or6lay)]
 
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="290"/>

@@ -15,7 +15,6 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 - 🧐 Always learning about blockchain, and web development.
 - 🤔 I’m looking for help with L2 technologies.
 - 💬 Ping me about front end development.
-- 📙 Check out my [resume].
 - 🎉 Fun Fact: I like cyberpunk and Lo-fi。
 
 

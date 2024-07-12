@@ -11,7 +11,7 @@ I'm a Blockchain Developer graduated in Computer Science and I'm working on some
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working at [Oracle].
+- 🔭 I’m currently working at [remote].
 - 🧐 Always learning about blockchain, and web development.
 - 🤔 I’m looking for help with L2 technologies.
 - 💬 Ping me about front end development.
